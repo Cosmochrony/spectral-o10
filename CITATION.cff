@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you cite this work, please use the metadata from this file."
+title: "Polynomial-Growth Capacity Dynamics at Large q: Volumetric Growth Confirmation, Capacity Decay, and the Weil Decomposition Roadmap"
+type: software
+authors:
+  - family-names: "Beau"
+    given-names: "Jérôme"
+repository-code: "https://github.com/Cosmochrony/spectral-o10"
+url: "https://cosmochrony.org/science/spectral/program/o10/"
+doi: "10.5281/zenodo.19161074"
+license: "CC-BY-4.0"
+preferred-citation:
+  type: article
+  title: "Polynomial-Growth Capacity Dynamics at Large q: Volumetric Growth Confirmation, Capacity Decay, and the Weil Decomposition Roadmap"
+  authors:
+    - family-names: "Beau"
+      given-names: "Jérôme"
+  year: 2026
+  doi: "10.5281/zenodo.19161074"
+  url: "https://doi.org/10.5281/zenodo.19161074"
