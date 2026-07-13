@@ -1,5 +1,5 @@
 This repository contains the source of the **O10** Cosmochrony paper  
-[*Projective Capacity on Heisenberg Graphs: Finite-Size Validation and Algorithmic Obstruction*](out/SpectralO10.pdf).
+*Projective Capacity on Heisenberg Graphs: Finite-Size Validation and Algorithmic Obstruction*.
 
 This work extends the **spectral admissibility sub-programme** by performing the
 first large-scale computation of projective capacity on polynomial-growth graphs,
