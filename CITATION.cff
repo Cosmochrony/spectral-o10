@@ -7,6 +7,7 @@ authors:
     given-names: "Jérôme"
 repository-code: "https://github.com/Cosmochrony/spectral-o10"
 url: "https://cosmochrony.org/science/spectral/program/o10/"
+version: "1.1"
 doi: "10.5281/zenodo.19161074"
 license: "CC-BY-4.0"
 preferred-citation:

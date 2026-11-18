@@ -57,7 +57,7 @@ Thus:
 
 # Structural Role of O10
 
-O10 does not yet extract the phenomenological value of $\delta$.
+O10 does not yet extract a value of $\delta$.
 
 Instead, it establishes that the failure to measure $\delta$ is not due to:
 
@@ -131,7 +131,7 @@ O10 preserves all previous structural results:
 - growing fingerprint and geometric obstruction from **O8**
 - polynomial-growth resolution from **O9**
 
-It does not modify the observable or its target exponent.
+It does not modify the observable or the exponent to be measured.
 Instead, it identifies the final obstruction preventing its extraction.
 
 # Conceptual Structure

@@ -3,5 +3,6 @@
   "web_url": "https://cosmochrony.org/science/spectral/program/o10/",
   "main_tex": "tex/SpectralO10.tex",
   "zenodo_id": 19161074,
-  "doi": "10.5281/zenodo.19161074"
+  "doi": "10.5281/zenodo.19161074",
+  "notes": "Version 1.1 (alpha-2). Identifies the interval [7.4, 10.6] as a historical comparison range obtained through the historical reciprocal prescription, which is not a consequence of O6 or O7; corrects the attribution of the O11 working hypothesis (block filling, not membership of the range). Results unchanged; the source bibliography style differs from version 1.0."
 }
